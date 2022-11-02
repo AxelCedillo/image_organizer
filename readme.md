@@ -1,5 +1,5 @@
-# ban_youtube_bots
-Dirty and fast script for removing spam comments using Google Youtube API
+# Image Organizer
+Programa que ayuda a gestionar, almacenar y organizar imagenes.
 
 ## Usage
 ### Requisitos
